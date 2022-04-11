@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Project 3.1 - Pathtracer
-description: Ke Wang - Alfredo De Goyeneche
+title: 3D Covid-19 Particle and Airflow Simulations
+description: Alfredo De Goyeneche - Ke Wang - Catherine Gai - Wenhan Sun
 ---
 
 [Link to (this) Webpage](https://cal-cs184-student.github.io/sp22-project-webpages-KeWang0622/final_project/index.html)
