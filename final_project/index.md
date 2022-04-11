@@ -27,5 +27,3 @@ It's well understood that COVID-19 is transmitted mainly through close contact a
 1) Simulating the transmission of particles/droplets during the phases of inhalation and exhalation using fluid dynamics.
 2) Simulating how masks/shields can prevent the particles/droplets from spreading out during the phases of inhalation and exhalation.
 3) Simulating and evaluating the COVID particle transmission in realistic scenes (e.g., closed space, airplane with/without active air circulation).
-
-### Answers
