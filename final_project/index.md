@@ -17,7 +17,7 @@ Furthermore, we aim to simulate how masks/shields can prevent the particles/drop
   <img src="./Figures/Figure1.png" width="600" alt="Image from https://blogs.3ds.com/simulia/how-simulation-particle-distribution-can-better-predict-virus-spread/">
 </p>
 <p align="center">
-  Image from [blogs.3ds.com](https://blogs.3ds.com/simulia/how-simulation-particle-distribution-can-better-predict-virus-spread/).
+  Image from <a href="https://blogs.3ds.com/simulia/how-simulation-particle-distribution-can-better-predict-virus-spread/">blogs.3ds.com</a>.
 </p>
 ### Team members
 
