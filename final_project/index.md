@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3D Covid-19 Particle and Airflow Simulations
+title: Project Proposal -- 3D Covid-19 Particle and Airflow Simulations
 description: Alfredo De Goyeneche - Ke Wang - Catherine Gai - Wenhan Sun
 ---
 
@@ -17,7 +17,7 @@ Furthermore, we aim to simulate how masks/shields can prevent the particles/drop
   <img src="./Figures/Figure1.png" width="600" alt="Image from https://blogs.3ds.com/simulia/how-simulation-particle-distribution-can-better-predict-virus-spread/">
 </p>
 <p align="center">
-  Image from the internet
+  Image from [blogs.3ds.com](https://blogs.3ds.com/simulia/how-simulation-particle-distribution-can-better-predict-virus-spread/).
 </p>
 ### Team members
 
